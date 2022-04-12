@@ -1,23 +1,21 @@
 {
     "name": "s1ynced-dark",
-    "displayName": "S1ynced Dark",
+    "displayName": "s1ynced",
     "description": "A cool dark theme!",
-    "version": "1.0.0",
-    "publisher": "S1ynced",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/S1ynced/s1ynced-dark"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "s1ync",
-        "s1ynced"
-    ],
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
     },
     "categories": [
         "Themes"
-    ]
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "S1ynced",
+                "uiTheme": "vs-dark",
+                "path": "./themes/S1ynced-color-theme.json"
+            }
+        ]
+    }
 }
