@@ -6,7 +6,7 @@
     "publisher": "S1ynced",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/S1ynced/s1ynced-dark.git"
     },
     "engines": {
         "vscode": "^1.66.0"
