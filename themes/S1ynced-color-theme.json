@@ -46,7 +46,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "normal",
 				"foreground": "#81adc2"
 			}
 		},
