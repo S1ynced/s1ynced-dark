@@ -1,15 +1,15 @@
 {
     "name": "s1ynced-dark",
-    "displayName": "s1ynced",
+    "displayName": "S1ynced Dark",
     "description": "A cool dark theme!",
     "publisher": "S1ynced",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/S1ynced/s1ynced-dark.git"
-    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
+    },
+    "repository": {
+        "url": "https://github.com/S1ynced/s1ynced-dark.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
