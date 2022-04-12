@@ -3,7 +3,7 @@
     "displayName": "S1ynced Dark",
     "description": "A cool dark theme!",
     "publisher": "S1ynced",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.66.0"
     },
