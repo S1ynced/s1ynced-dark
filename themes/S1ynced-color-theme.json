@@ -38,7 +38,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "bold",
 				"foreground": "#81adc2"
 			}
 		},
