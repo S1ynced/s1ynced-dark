@@ -19,14 +19,5 @@
     },
     "categories": [
         "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "S1ynced",
-                "uiTheme": "vs-dark",
-                "path": "./themes/S1ynced-color-theme.json"
-            }
-        ]
-    }
+    ]
 }
