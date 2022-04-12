@@ -2,11 +2,11 @@
     "name": "s1ynced-dark",
     "displayName": "S1ynced Dark",
     "description": "A cool dark theme!",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "S1ynced",
     "repository": {
         "type": "git",
-        "url": "https://github.com/S1ynced/s1ynced-dark.git"
+        "url": "https://github.com/S1ynced/s1ynced-dark"
     },
     "keywords": [
         "theme",
